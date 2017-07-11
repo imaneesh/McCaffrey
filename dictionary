@@ -1,0 +1,7 @@
+z={"WA":"Washington","OR":"Oregon","NY":"New York","AL":"Alabama","FL":"Florida"}
+
+x="OR"
+
+for i in z:
+	if i[z]==x
+		print "Oregon"
