@@ -1,0 +1,8 @@
+seq= "ATGAAATACGTA"
+
+h=0
+for a in seq:
+    if a=="A":
+        h=h+1
+              
+print h
